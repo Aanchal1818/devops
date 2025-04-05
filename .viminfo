@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1742007404,,"wq!"
+|2,0,1743844764,,"wq!"
 :q
 |2,0,1741497952,,"q"
 
@@ -27,18 +27,24 @@
 # Registers:
 
 # File marks:
-'0  1  2  ~/text1.txt
-|4,48,1,2,1742007404,"~/text1.txt"
-'1  232  0  ~/script1.sh
-|4,49,232,0,1741497952,"~/script1.sh"
+'0  1  5  ~/index.html
+|4,48,1,5,1743844764,"~/index.html"
+'1  1  2  ~/text1.txt
+|4,49,1,2,1742007404,"~/text1.txt"
 '2  232  0  ~/script1.sh
-|4,50,232,0,1741497938,"~/script1.sh"
+|4,50,232,0,1741497952,"~/script1.sh"
 '3  232  0  ~/script1.sh
-|4,51,232,0,1741497771,"~/script1.sh"
+|4,51,232,0,1741497938,"~/script1.sh"
 '4  232  0  ~/script1.sh
 |4,52,232,0,1741497771,"~/script1.sh"
+'5  232  0  ~/script1.sh
+|4,53,232,0,1741497771,"~/script1.sh"
 
 # Jumplist (newest first):
+-'  1  5  ~/index.html
+|4,39,1,5,1743844764,"~/index.html"
+-'  1  2  ~/text1.txt
+|4,39,1,2,1742007404,"~/text1.txt"
 -'  1  2  ~/text1.txt
 |4,39,1,2,1742007404,"~/text1.txt"
 -'  232  0  ~/script1.sh
@@ -46,6 +52,14 @@
 -'  232  0  ~/script1.sh
 |4,39,232,0,1741497952,"~/script1.sh"
 -'  232  0  ~/script1.sh
+|4,39,232,0,1741497952,"~/script1.sh"
+-'  232  0  ~/script1.sh
+|4,39,232,0,1741497952,"~/script1.sh"
+-'  232  0  ~/script1.sh
+|4,39,232,0,1741497938,"~/script1.sh"
+-'  232  0  ~/script1.sh
+|4,39,232,0,1741497938,"~/script1.sh"
+-'  232  0  ~/script1.sh
 |4,39,232,0,1741497938,"~/script1.sh"
 -'  232  0  ~/script1.sh
 |4,39,232,0,1741497938,"~/script1.sh"
@@ -53,6 +67,22 @@
 |4,39,232,0,1741497771,"~/script1.sh"
 -'  232  0  ~/script1.sh
 |4,39,232,0,1741497771,"~/script1.sh"
+-'  232  0  ~/script1.sh
+|4,39,232,0,1741497771,"~/script1.sh"
+-'  232  0  ~/script1.sh
+|4,39,232,0,1741497771,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1741497555,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1741497555,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1741497555,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1741497555,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1741497555,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1741497555,"~/script1.sh"
 -'  1  0  ~/script1.sh
 |4,39,1,0,1741497555,"~/script1.sh"
 -'  1  0  ~/script1.sh
@@ -67,6 +97,16 @@
 |4,39,1,0,1741497555,"~/script1.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/index.html
+	*	1743844760	0
+	"	1	5
+	^	1	6
+	.	1	5
+	+	1	4
+	+	1	7
+	+	1	0
+	+	1	5
 
 > ~/text1.txt
 	*	1742007401	0
